@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1386337620 source:c:\users\administrator\documents\codeblocks\paddle v2\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<limits.h>
+	<time.h>
+
